@@ -1,0 +1,12 @@
+../Core/Src/main.c:575:13:MX_GPIO_Init	64	static
+../Core/Src/main.c:103:6:DHT11_ProcessReading	8	static
+../Core/Src/main.c:133:6:MQ2_ProcessReading	8	static
+../Core/Src/main.c:170:6:OLED_ProcessUpdate	56	static
+../Core/Src/main.c:243:6:UART_SendSensorData	88	static
+../Core/Src/main.c:620:6:Error_Handler	0	static,ignoring_inline_asm
+../Core/Src/main.c:497:13:MX_TIM4_Init	32	static
+../Core/Src/main.c:463:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:411:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:542:13:MX_UART5_Init	8	static
+../Core/Src/main.c:369:6:SystemClock_Config	88	static
+../Core/Src/main.c:283:5:main	8	static

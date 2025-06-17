@@ -1,0 +1,14 @@
+../Core/Src/dht11.c:203:13:DHT11_DelayUs	2
+../Core/Src/dht11.c:320:16:DHT11_CheckSum_Verify	1
+../Core/Src/dht11.c:214:13:DHT11_ObserveState	3
+../Core/Src/dht11.c:282:28:DHT11_ReadBits	6
+../Core/Src/dht11.c:228:13:DHT11_SetPinMode	1
+../Core/Src/dht11.c:243:28:DHT11_Start	4
+../Core/Src/dht11.c:53:6:DHT11_Init	4
+../Core/Src/dht11.c:82:6:DHT11_DeInit	2
+../Core/Src/dht11.c:95:21:DHT11_ReadData	5
+../Core/Src/dht11.c:137:7:DHT11_ReadTemperatureC	1
+../Core/Src/dht11.c:147:7:DHT11_ReadTemperatureF	1
+../Core/Src/dht11.c:157:7:DHT11_ReadHumidity	1
+../Core/Src/dht11.c:167:13:DHT11_GetErrorMsg	2
+../Core/Src/dht11.c:180:6:DHT11_ControlLED	5

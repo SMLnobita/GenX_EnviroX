@@ -1,0 +1,17 @@
+../Core/Src/mq2.c:358:14:MQ2_CalculateResistance	3
+../Core/Src/mq2.c:383:14:MQ2_CalculateRatio	2
+../Core/Src/mq2.c:400:14:MQ2_CalculatePPM	2
+../Core/Src/mq2.c:52:6:MQ2_Init	3
+../Core/Src/mq2.c:80:6:MQ2_DeInit	2
+../Core/Src/mq2.c:134:6:MQ2_SetR0	3
+../Core/Src/mq2.c:146:19:MQ2_ReadRaw	5
+../Core/Src/mq2.c:93:19:MQ2_Calibrate	6
+../Core/Src/mq2.c:184:19:MQ2_ReadVoltage	2
+../Core/Src/mq2.c:277:21:MQ2_GetGasLevel	4
+../Core/Src/mq2.c:199:19:MQ2_ReadGasConcentration	4
+../Core/Src/mq2.c:246:19:MQ2_ReadAllValues	1
+../Core/Src/mq2.c:255:7:MQ2_GetSmokeConcentration	2
+../Core/Src/mq2.c:266:7:MQ2_GetLPGConcentration	2
+../Core/Src/mq2.c:294:13:MQ2_GetStatusMessage	2
+../Core/Src/mq2.c:306:13:MQ2_GetLevelMessage	2
+../Core/Src/mq2.c:319:6:MQ2_ControlAlarm	7

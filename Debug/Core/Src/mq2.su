@@ -1,0 +1,17 @@
+../Core/Src/mq2.c:358:14:MQ2_CalculateResistance	0	static
+../Core/Src/mq2.c:383:14:MQ2_CalculateRatio	0	static
+../Core/Src/mq2.c:400:14:MQ2_CalculatePPM	16	static
+../Core/Src/mq2.c:52:6:MQ2_Init	8	static
+../Core/Src/mq2.c:80:6:MQ2_DeInit	8	static
+../Core/Src/mq2.c:134:6:MQ2_SetR0	0	static
+../Core/Src/mq2.c:146:19:MQ2_ReadRaw	32	static
+../Core/Src/mq2.c:93:19:MQ2_Calibrate	24	static
+../Core/Src/mq2.c:184:19:MQ2_ReadVoltage	8	static
+../Core/Src/mq2.c:277:21:MQ2_GetGasLevel	0	static
+../Core/Src/mq2.c:199:19:MQ2_ReadGasConcentration	24	static
+../Core/Src/mq2.c:246:19:MQ2_ReadAllValues	8	static
+../Core/Src/mq2.c:255:7:MQ2_GetSmokeConcentration	8	static
+../Core/Src/mq2.c:266:7:MQ2_GetLPGConcentration	8	static
+../Core/Src/mq2.c:294:13:MQ2_GetStatusMessage	0	static
+../Core/Src/mq2.c:306:13:MQ2_GetLevelMessage	0	static
+../Core/Src/mq2.c:319:6:MQ2_ControlAlarm	8	static
