@@ -139,5 +139,5 @@ Temperature: XX.X°C, Humidity: XX.X%, Gas: XXXX ppm, Level: NORMAL/WARNING/DANG
 4. Theo dõi serial output để xem truyền dữ liệu
 5. Kiểm tra nền tảng IoT để nhận dữ liệu
 
-----
+-----
 *Được xây dựng với ❤️ và STM32F407*
